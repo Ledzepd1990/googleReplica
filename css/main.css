@@ -10,11 +10,11 @@ a {
   color:#222;
   text-decoration: none;
 }
-a:hover {
+a {
   color: #222;
   text-decoration: underline;
 }
-a.button:hover {
+a.button {
   text-decoration: none;
 }
 .top-navigation {
@@ -36,7 +36,7 @@ a.button:hover {
   opacity: 0.7;
   cursor: default;
 }
-.fa:hover {
+.fa {
   opacity: 1.0;
 }
 .share-button {
@@ -46,7 +46,7 @@ a.button:hover {
   position: relative;
     top: -3px;
 }
-.share-button:hover {
+.share-button {
   background-color: #E1E1E1;
 }
 .profile-img {
@@ -75,7 +75,7 @@ a.button:hover {
     border-radius: 5px;
     display: block;
 }
-.search-box input:focus {
+.search-box input {
   border-color: #f5f5f5;
 }
 .search-buttons  {
@@ -95,7 +95,7 @@ a.button:hover {
     display: inline-block;
     cursor: pointer;
 }
-.search-button button:hover{
+.search-button button {
   background-color:#f8f8f8;
   border: 1px solid #c6c6c6;
     box-shadow:0 1px 1px rgba(0,0,0,0.1);
@@ -126,7 +126,7 @@ a.button:hover {
   display: inline;
   line-height: 40px;
 }
-.right-site-links li a:first-child {
+.right-site-links li a {
   padding-right:8px;
 }
 .left-site-links li:nth-child(2),
