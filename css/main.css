@@ -6,7 +6,7 @@ body {
     color: #222;
     margin:0;
 }
-a { 
+a {
   color:#222;
   text-decoration: none;
 }
@@ -100,15 +100,15 @@ a.button {
   border: 1px solid #c6c6c6;
     box-shadow:0 1px 1px rgba(0,0,0,0.1);
     color:#333;
-} 
+}
 .bottom-site-links {
   bottom: 0 !important;
   position: absolute;
   width:100%;
   background-color: #f2f2f2;
-  border-top: 1px solid #e4e4e4; 
+  border-top: 1px solid #e4e4e4;
 }
-.left-site-links, 
+.left-site-links,
 .right-site-links {
   margin: 0;
 }
